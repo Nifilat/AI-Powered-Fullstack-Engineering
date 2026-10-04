@@ -3,7 +3,7 @@
 Coursework and assignments for the **AltSchool Africa School of Engineering** programme (AI-Powered Fullstack Engineering track).
 
 **Student:** Oluwanifemi Latunde
-**Alt School ID:** ALT/SOE/KAR/026/1461
+**Alt School ID:** 
 
 ## Repository Structure
 
